@@ -17,14 +17,13 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=tokyonight&line_height=27">
   
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veerkalburgi&langs_count=8">
   
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veerkalburgi&layout=compact">
 </p>
 </details>
----
 
 
 
