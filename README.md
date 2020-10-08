@@ -1,4 +1,4 @@
-<a href="https://twitter.com/Pratikpkb" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pratik-kumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/pratikkumar04" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/Veerkalburgi" target="_blank" rel="nofollow"><img align="right" alt="Veer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/veer-kalburgi-a2100550/" target="_blank" rel="nofollow"><img align="right" alt="Veer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/kalburgiveer" target="_blank" rel="nofollow"><img align="right" alt="Veer's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ### Hi there I am Veer 👋
 
@@ -6,8 +6,8 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Robotics, Deep Learning, Reinforcement Learning.
 - 🤝 Open for collaborations in Robotics, Deep Learning and Reinforcement Learning.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://sourcerer.io/veerkalburgi) for complete background and contact.
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/veerkalburgi) 
+- 🌐 Visit my [porfolio website](https://veerkalburgi.github.io/) for complete background and contact.
 <!--
 - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 -->
