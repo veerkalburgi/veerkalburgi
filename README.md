@@ -8,10 +8,30 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
 - 🤝 Open for collaborations in Robotics, Deep Learning and Reinforcement Learning.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/veerkalburgi) 
 - 🌐 Visit my [porfolio website](https://veerkalburgi.github.io/) for complete background and contact.
+- 📫 How to reach me: veerkalburgi@gmail.com
 <!--
 - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 -->
 ---
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veerkalburgi&langs_count=8">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veerkalburgi&layout=compact">
+</p>
+</details>
+---
+
+
+
+
+
+
+
+
+
 
 <!--
 **veerkalburgi/veerkalburgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
