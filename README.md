@@ -18,9 +18,9 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=tokyonight&line_height=27">
-  
+  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veerkalburgi&langs_count=8&theme=tokyonight&line_height=27">
-  
+  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veerkalburgi&layout=compact&theme=tokyonight&line_height=27">
 </p>
 </details>
