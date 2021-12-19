@@ -2,7 +2,7 @@
 
 ### Hi there I am Veer 👋
 
-I am a Roboticist who is passionate about stuff like robotics, machine learning, deep learning, Reinforcement Learning, Self-Driving Cars. The few techs that I enjoy working in are ROS, Python, C++, Matlab. I am actively looking for opportunities in Robotics. Recently, I have an internship at the Rakuten Institute of Technology, Bengaluru as a Technical Research Intern!
+I am a Roboticist who is passionate about stuff like robotics, machine learning, deep learning, Reinforcement Learning, Self-Driving Cars. The few techs that I enjoy working in are ROS, Python, C++, Matlab. I am actively looking for opportunities in Robotics. Recently, I Currently working in Singapore University of Technology and Design(SUTD) as Senior Research Assistant.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Robotics, Deep Learning, Reinforcement Learning.
 - 🤝 Open for collaborations in Robotics, Deep Learning and Reinforcement Learning.
