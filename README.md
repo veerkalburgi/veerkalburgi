@@ -17,7 +17,6 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
  <summary> 😇 <b>My Github Stats</b>: </summary>
  
  <a>
-  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=tokyonight&line_height=27& float:left">
 </a>
 
@@ -25,7 +24,8 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
 [![](https://raw.githubusercontent.com/veerkalburgi/veerkalburgi/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/veerkalburgi/veerkalburgi/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
  [![](https://raw.githubusercontent.com/veerkalburgi/veerkalburgi/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/veerkalburgi/veerkalburgi/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+<img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=vue&line_height=27& float:left">
+</a>
  [![](https://raw.githubusercontent.com/veerkalburgi/veerkalburgi/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 <!--br>
