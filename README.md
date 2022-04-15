@@ -16,8 +16,9 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  
- <a href="https://github.com/veerkalburgi/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrjp&show_icons=true&theme=cobalt" />
+ <a>
+  <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=veerkalburgi&show_icons=true&theme=tokyonight&line_height=27& float:left">
 </a>
 
  
