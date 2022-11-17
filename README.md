@@ -7,6 +7,7 @@ I am a Roboticist who is passionate about stuff like robotics, machine learning,
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Robotics, Deep Learning, Reinforcement Learning.
 - 🤝 Open for collaborations in Robotics, Deep Learning and Reinforcement Learning.
 - 🌐 Visit my [porfolio website](https://veerkalburgi.github.io/) for complete background and contact.
+- 🔭 My Publication [Google Scholar](https://scholar.google.com/citations?user=BHXBrCUAAAAJ&hl=en) for details of publications.
 - 📫 How to reach me: veerkalburgi@gmail.com
 <!--
 - 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
